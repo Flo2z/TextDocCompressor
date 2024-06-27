@@ -1,0 +1,13 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+#upload-container {
+  margin-bottom: 20px;
+}
+
+#output-container img {
+  max-width: 100%;
+  margin-top: 10px;
+}
